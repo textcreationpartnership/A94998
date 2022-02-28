@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copy of a letter from His Majesty's camp between Mecklin and Vilvoord in Flanders. July 22. / Written by A gentleman of quality in the army, to a friend of his in London.</title>
+            <author>Gentleman of quality in the army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94998</idno>
+            <idno type="STC">Wing T2614A</idno>
+            <idno type="STC">ESTC R185626</idno>
+            <idno type="EEBO-CITATION">43077710</idno>
+            <idno type="OCLC">ocm 43077710</idno>
+            <idno type="VID">151824</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94998)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151824)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2277:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copy of a letter from His Majesty's camp between Mecklin and Vilvoord in Flanders. July 22. / Written by A gentleman of quality in the army, to a friend of his in London.</title>
+                  <author>Gentleman of quality in the army.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Hodgkin.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702.</term>
+               <term>Grand Alliance, War of the, 1689-1697 --  Campaigns.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:151824:1" rendition="simple:additions"/>
+            <head>A True COPY of a LETTER FROM His Majeſty's Camp BETWEEN Mecklin and Vilvoord IN FLANDERS. July 22.</head>
+            <head type="sub">Written by a Gentleman of Quality in the Army, to a Friend of his in <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ON <hi>Tueſday</hi> laſt, being the <hi>18th.</hi> Inſtant, the King im<g ref="char:EOLhyphen"/>mediately after Dinner, re<g ref="char:EOLhyphen"/>ceived Advice that ſome <hi>French</hi> Squadrons began to appear on the Hills before the Camp: Alſo that morning we heard that the <hi>French</hi> were in Motion, though it was not known which way. That morning I had rid out with the King to the end of the Left Wing of our Camp, and I heard his Majeſty ask, What are thoſe Squa<g ref="char:EOLhyphen"/>drons, ſeeing ſome at a good diſtance, and which no body elſe would take no<g ref="char:EOLhyphen"/>tice of; but about three his Majeſty got on Horſe-back, and ſoon diſpoſed the Army into its due order, for receiving the Enemy if they advanc'd. All that Evening we beheld the Enemy gent<g ref="char:EOLhyphen"/>ly approaching towards us; and our Ar<g ref="char:EOLhyphen"/>my as well as theirs lay that night un<g ref="char:EOLhyphen"/>der their Arms in the open Field, with<g ref="char:EOLhyphen"/>out Tents or any refreſhment. His Ma<g ref="char:EOLhyphen"/>jeſty alſo lay that night in one of his Coaches in his Clothes; the next morn<g ref="char:EOLhyphen"/>ing we beheld the <hi>French</hi> Squadrons and Batalions nearer to us, expecting to receive them from the Ground where we had poſted our ſelves, and where we had towards the Right caſt up a good Trench in the night time. It is ſince ſaid that the <hi>French</hi> did little expect to find us there in the morning, but thought we ſhould retreat in the night, becauſe their Numbers were ſo much ſuperior to ours; for they were eſteemed to be 80000. whereas our Army, after the Duke of <hi>Wirtemberg</hi>'s Detachment, and 10 Batalions more to <hi>Liege</hi> from <hi>Hoperting</hi> Camp, was not thought to have been above 45000. which Number in the Muſter-Roll ſeldom gives above 40000 effective Men, as ſome tell me. A<g ref="char:EOLhyphen"/>bout half an hour after Four that morn<g ref="char:EOLhyphen"/>ing our Cannon began to play, and in a little time they returned upon us, both of us playing from different Batteries till after eight, and then our ſmall Shot began to Fire, and we drove the <hi>French</hi> out of a Village they had poſſeſſed be<g ref="char:EOLhyphen"/>fore
+<pb facs="tcp:151824:2"/>a Village they had poſſeſſed before us; which Attack was led on by the Duke of <hi>Frieſland;</hi> then they came on more to<g ref="char:EOLhyphen"/>wards the Right, but ſeeing our Trenches that we had caſt up, they retreated; af<g ref="char:EOLhyphen"/>ter this their main Attack was on our Right Wing, which was continued for about five Hours, and our Men often re<g ref="char:EOLhyphen"/>pulſed them with great bravery and re<g ref="char:EOLhyphen"/>ſolution; but they ſtill ſupplying their Men with freſh Batalions to ſupport them as they drew off, or filed before ours; and our Foot being at laſt ſpent for want of more reſerves, and ſome Horſe on our ſide not behaving them<g ref="char:EOLhyphen"/>ſelves ſo well as thy ſhould, the <hi>French</hi> at laſt broke in upon us, and our Men gave way, ſo that we loſt the Field of Battle, and retreated in ſome diſorder, having left many of our Cannon be<g ref="char:EOLhyphen"/>hind us.</p>
+            <p>We took the Duke of <hi>Berwick,</hi> and ſome others, Priſoners, who were ſent ſome hours before to <hi>Leewe.</hi> Count <hi>Solmes,</hi> as he was ſitting upon the ground, at the Head of Brigadier <hi>Earl</hi>'s Regi<g ref="char:EOLhyphen"/>ment, had one Leg about the Ancle much ſhattered and contuſed by a Ca<g ref="char:EOLhyphen"/>non Bullet, which alſo wounded the inward part of his other Thigh, of which wounds we hear he ſince died: The Duke of <hi>Ormond</hi> having his Horſe ſhot under him, and his Groom being then out of the way, with his other Horſes, he went and charged on Foot, and was taken Priſoner, but one of the Wretches who took him, drew a Dagger and run him through the Neck, of which Wound he is like to recover. Mr. <hi>Zeuleſtein,</hi> and Major General <hi>Scravenmore</hi> are alſo Priſoners. My Lord <hi>Portland</hi> is Wound<g ref="char:EOLhyphen"/>ed in one of his Fingers of each hand, but that hinders not my Lord's great and continual application to buſineſs. The <hi>French</hi> have no great reaſon to boaſt of a Victory; for Monſieur <hi>Gattinier</hi> tells me, That there are 28000 dead on the place of Battel, whereof we as yet reckon them to have loſt but 21000. An <hi>Aid du Camp,</hi> of the Elector of <hi>Bavaria,</hi> was ſent hither laſt Night to inform His Majeſty that the <hi>French</hi> have ſent 6000 Wounded Soldiers to <hi>Namur,</hi> and above 600 Wounded Officers, beſides what they have ſent to <hi>Mons</hi> and other Gari<g ref="char:EOLhyphen"/>ſons: And inſtead of purſuing us from <hi>Neer Heſpen,</hi> or advancing at all ſinc the Battle, they are retreated towards <hi>Tongres:</hi> They have loſt Forty Officers of very great Quality, whereof ſeven Brigadier Generals; whereas we have not loſt ſo much as one Colonel or Ge<g ref="char:EOLhyphen"/>neral Officer, beſides thoſe mentioned to be taken Priſoners.</p>
+            <p>We have loſt only the name of a Vi<g ref="char:EOLhyphen"/>ctory; but the real Advantage and Ho<g ref="char:EOLhyphen"/>nour lies wholly on our ſide. The Court is all one, juſt as full as before. The ſtrength of our Defence we wholly owe, under God, to his moſt Excellent Ma<g ref="char:EOLhyphen"/>jeſty, of whoſe Galantry and Conduct the <hi>French</hi> Officers are ſo very ſenſible, that ſeveral of them have ſaid to Mon<g ref="char:EOLhyphen"/>ſieur <hi>Zeuleſtins Aid du Camp,</hi> who has been among them to ſee his Maſter ſince the Fight, That if our King were theirs they ſhould <hi>adore him.</hi> His Ma<g ref="char:EOLhyphen"/>jeſty on ſuch Occaſions is indefatigable, and can live on Horſe-back longer than the ſtrongeſt of his Followers. He led up himſelf divers Attacks, and rallyed our Men, that would otherwiſe have fled. He had one Bullet ſtruck on his Scarfe about his Middle, but God be thanked did his Majeſty no harm: A<g ref="char:EOLhyphen"/>nother Bullet went through his Peruke and did no hurt.</p>
+            <p>It ſtrikes me ſtill with Horror to think to what Danger the Safety of all <hi>Europe</hi> was expoſed in his Majeſty's Perſon. We are now encamp'd between two Rivers near <hi>Vilvoord.</hi> And this day my Lord <hi>Athlone,</hi> and General <hi>Talmaſh</hi> joyned us with their Army, which they had brought from about <hi>Dieſt.</hi> The Duke of <hi>Wirtemberg</hi> is ordered to encamp four or five Miles off, here being not room e<g ref="char:EOLhyphen"/>nough to receive him: And we do, or ſhall ſoon find our ſelves much ſtronger than before. I ſhall only add, That with the extraordinary Fatigue of that terrible Day, his Majeſty had indeed loſt much of that Plumpneſs and Ruddineſs which he had before. The whole Day of Battle and the Night following, when he lay upon Straw in a little Cottage, near <hi>Tirlemont,</hi> his Majeſty did not cough at all; but he was the worſe for his not coughing. Now he begins already to return to his priſtine Vigour and good Complexion, which I never ſaw his Ma<g ref="char:EOLhyphen"/>jeſty to have better than before the Fight.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Hodgkin.</hi> 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
